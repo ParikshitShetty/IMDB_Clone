@@ -25,7 +25,7 @@ CREATE TABLE Movies (
   name TEXT,
   Year_Of_Release TEXT,
   Plot TEXT,
-  poster BLOB,
+  poster TEXT,
   producer_id INTEGER,
   FOREIGN KEY (producer_id) REFERENCES Producers (id)
 );

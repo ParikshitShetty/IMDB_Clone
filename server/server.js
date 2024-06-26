@@ -28,16 +28,18 @@ const SQLiteSingleton = require('./sqliteSingleton');
 // create an instance
 const dbInstance = new SQLiteSingleton('./imdb.db');
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-
 // Import routes
 const user = require('./routes/userRoute');
+const dbInitialUpdater = require('./routes/adminRoute');
 
-// define routes
+// Define routes
 app.use('/user/',user);
+app.use('/admin/',dbInitialUpdater);
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
+
+  app.get('/', async( req, res ) => {
+    res.send('Hello World!')
+  });
 })

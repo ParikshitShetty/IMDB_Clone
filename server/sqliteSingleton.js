@@ -7,6 +7,14 @@ class SQLiteSingleton {
             console.error("Could not connect to database", err);
           } else {
             console.log("Connected to database");
+            // Enable foreign key support
+            this.db.run('PRAGMA foreign_keys = ON;', (err) => {
+              if (err) {
+                console.error("Error enabling foreign keys:", err);
+              } else {
+                console.log("Foreign keys enabled");
+              }
+            });
           }
         });
         SQLiteSingleton.instance = this;

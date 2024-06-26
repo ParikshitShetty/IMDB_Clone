@@ -1,0 +1,519 @@
+[
+    {
+      "name": "Emma Watson",
+      "gender": "Female",
+      "dob": "1990-04-15",
+      "bio": "Emma Charlotte Duerre Watson is an English actress, model, and activist, known for her role as Hermione Granger in the Harry Potter film series."
+    },
+    {
+      "name": "Rupert Grint",
+      "gender": "Male",
+      "dob": "1988-08-24",
+      "bio": "Rupert Alexander Lloyd Grint is an English actor, known for his role as Ron Weasley in the Harry Potter film series."
+    },
+    {
+      "name": "Mark Hamill",
+      "gender": "Male",
+      "dob": "1951-09-25",
+      "bio": "Mark Richard Hamill is an American actor, voice actor, and writer, best known for his role as Luke Skywalker in the Star Wars film series."
+    },
+    {
+      "name": "Harrison Ford",
+      "gender": "Male",
+      "dob": "1942-07-13",
+      "bio": "Harrison Ford is an American actor, best known for his roles as Han Solo in the Star Wars series and Indiana Jones in the Indiana Jones series."
+    },
+    {
+      "name": "Carrie Fisher",
+      "gender": "Female",
+      "dob": "1956-10-21",
+      "bio": "Carrie Frances Fisher was an American actress and writer, best known for her role as Princess Leia in the Star Wars film series."
+    },
+    {
+      "name": "Elijah Wood",
+      "gender": "Male",
+      "dob": "1981-01-28",
+      "bio": "Elijah Jordan Wood is an American actor and producer, best known for his role as Frodo Baggins in the Lord of the Rings film series."
+    },
+    {
+      "name": "Ian McKellen",
+      "gender": "Male",
+      "dob": "1939-05-25",
+      "bio": "Sir Ian Murray McKellen is an English actor, best known for his roles as Gandalf in the Lord of the Rings and Hobbit film series and Magneto in the X-Men film series."
+    },
+    {
+      "name": "Orlando Bloom",
+      "gender": "Male",
+      "dob": "1977-01-13",
+      "bio": "Orlando Jonathan Blanchard Copeland Bloom is an English actor, best known for his roles as Legolas in the Lord of the Rings and Hobbit film series and Will Turner in the Pirates of the Caribbean film series."
+    },
+    {
+      "name": "Ryan Reynolds",
+      "gender": "Male",
+      "dob": "1976-10-23",
+      "bio": "Ryan Rodney Reynolds is a Canadian actor, best known for his roles in Deadpool, The Proposal, and Van Wilder."
+    },
+    {
+      "name": "Morena Baccarin",
+      "gender": "Female",
+      "dob": "1979-06-02",
+      "bio": "Morena Silva de Vaz Setta Baccarin is a Brazilian-American actress, best known for her roles in Deadpool, Firefly, and Gotham."
+    },
+    {
+      "name": "T.J. Miller",
+      "gender": "Male",
+      "dob": "1981-06-04",
+      "bio": "Todd Joseph Miller is an American actor and comedian, best known for his roles in Deadpool, Silicon Valley, and Cloverfield."
+    },
+    {
+      "name": "Vin Diesel",
+      "gender": "Male",
+      "dob": "1967-07-18",
+      "bio": "Mark Sinclair, known professionally as Vin Diesel, is an American actor and producer, best known for his roles in the Fast & Furious film series, xXx, and Guardians of the Galaxy."
+    },
+    {
+      "name": "Paul Walker",
+      "gender": "Male",
+      "dob": "1973-09-12",
+      "bio": "Paul William Walker IV was an American actor, best known for his role as Brian O'Conner in the Fast & Furious film series."
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "gender": "Female",
+      "dob": "1978-07-12",
+      "bio": "Mayte Michelle Rodriguez is an American actress, best known for her roles in the Fast & Furious film series, Resident Evil, and Avatar."
+    },
+    {
+      "name": "Sean Connery",
+      "gender": "Male",
+      "dob": "1930-08-25",
+      "bio": "Sir Sean Connery was a Scottish actor, best known for his portrayal of James Bond in seven Bond films between 1962 and 1983."
+    },
+    {
+      "name": "Ursula Andress",
+      "gender": "Female",
+      "dob": "1936-03-19",
+      "bio": "Ursula Andress is a Swiss actress, best known for her role as Honey Ryder in the first James Bond film, Dr. No."
+    },
+    {
+      "name": "Bernard Lee",
+      "gender": "Male",
+      "dob": "1908-01-10",
+      "bio": "John Bernard Lee was an English actor, best known for his role as M in the first eleven James Bond films."
+    },
+    {
+      "name": "Sam Neill",
+      "gender": "Male",
+      "dob": "1947-09-14",
+      "bio": "Sir Nigel John Dermot 'Sam' Neill is a New Zealand actor, best known for his roles in Jurassic Park, The Hunt for Red October, and The Piano."
+    },
+    {
+      "name": "Laura Dern",
+      "gender": "Female",
+      "dob": "1967-02-10",
+      "bio": "Laura Elizabeth Dern is an American actress, best known for her roles in Jurassic Park, Wild, and Big Little Lies."
+    },
+    {
+      "name": "Jeff Goldblum",
+      "gender": "Male",
+      "dob": "1952-10-22",
+      "bio": "Jeffrey Lynn Goldblum is an American actor, best known for his roles in Jurassic Park, Independence Day, and The Fly."
+    },
+    {
+      "name": "Tom Cruise",
+      "gender": "Male",
+      "dob": "1962-07-03",
+      "bio": "Thomas Cruise Mapother IV, known professionally as Tom Cruise, is an American actor and producer, best known for his roles in Top Gun, Mission: Impossible series, and Jerry Maguire."
+    },
+    {
+      "name": "Jeremy Renner",
+      "gender": "Male",
+      "dob": "1971-01-07",
+      "bio": "Jeremy Lee Renner is an American actor, best known for his roles in The Hurt Locker, The Avengers series, and Mission: Impossible series."
+    },
+    {
+      "name": "Simon Pegg",
+      "gender": "Male",
+      "dob": "1970-02-14",
+      "bio": "Simon John Pegg is an English actor, comedian, and screenwriter, best known for his roles in Shaun of the Dead, Hot Fuzz, and the Star Trek and Mission: Impossible film series."
+    },
+    {
+      "name": "Johnny Depp",
+      "gender": "Male",
+      "dob": "1963-06-09",
+      "bio": "John Christopher Depp II is an American actor, producer, and musician, best known for his roles in Pirates of the Caribbean series, Edward Scissorhands, and Sweeney Todd."
+    },
+    {
+      "name": "Geoffrey Rush",
+      "gender": "Male",
+      "dob": "1951-07-06",
+      "bio": "Geoffrey Roy Rush is an Australian actor, best known for his roles in Pirates of the Caribbean series, Shine, and The King's Speech."
+    },
+    {
+      "name": "Shia LaBeouf",
+      "gender": "Male",
+      "dob": "1986-06-11",
+      "bio": "Shia Saide LaBeouf is an American actor, performance artist, and filmmaker, best known for his roles in Transformers series, Holes, and Fury."
+    },
+    {
+      "name": "Megan Fox",
+      "gender": "Female",
+      "dob": "1986-05-16",
+      "bio": "Megan Denise Fox is an American actress and model, best known for her roles in Transformers series, Jennifer's Body, and Teenage Mutant Ninja Turtles."
+    },
+    {
+      "name": "Patrick Stewart",
+      "gender": "Male",
+      "dob": "1940-07-13",
+      "bio": "Sir Patrick Stewart is an English actor, best known for his roles as Captain Jean-Luc Picard in Star Trek series and Professor X in the X-Men film series."
+    },
+    {
+      "name": "Hugh Jackman",
+      "gender": "Male",
+      "dob": "1968-10-12",
+      "bio": "Hugh Michael Jackman is an Australian actor, best known for his role as Wolverine in the X-Men film series, and for his roles in Les Misérables and The Greatest Showman."
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "gender": "Female",
+        "dob": "1990-08-15",
+        "bio": "Jennifer Shrader Lawrence is an American actress. Her films have grossed over $6 billion worldwide, and she was the highest-paid actress in the world in 2015 and 2016."
+    },
+    {
+      "name": "Tilda Swinton",
+      "gender": "Female",
+      "dob": "1960-11-05",
+      "bio": "Katherine Matilda Swinton is a British actress, known for her roles in The Chronicles of Narnia series, Doctor Strange, and We Need to Talk About Kevin."
+    },
+    {
+      "name": "Georgie Henley",
+      "gender": "Female",
+      "dob": "1995-07-09",
+      "bio": "Georgina Helen Henley is an English actress, best known for her portrayal of Lucy Pevensie in The Chronicles of Narnia film series."
+    },
+    {
+      "name": "William Moseley",
+      "gender": "Male",
+      "dob": "1987-04-27",
+      "bio": "William Peter Moseley is an English actor, best known for his role as Peter Pevensie in The Chronicles of Narnia film series."
+    },
+    {
+      "name": "Tom Hanks",
+      "gender": "Male",
+      "dob": "1956-07-09",
+      "bio": "Thomas Jeffrey Hanks is an American actor and filmmaker. He is known for his various comedic and dramatic film roles, including Splash, Big, Forrest Gump, Apollo 13, and Saving Private Ryan."
+    },
+    {
+      "name": "Tim Allen",
+      "gender": "Male",
+      "dob": "1953-06-13",
+      "bio": "Timothy Alan Dick, known professionally as Tim Allen, is an American actor and comedian. He is known for his roles in Home Improvement, Toy Story series, and Galaxy Quest."
+    },
+    {
+      "name": "Don Rickles",
+      "gender": "Male",
+      "dob": "1926-05-08",
+      "bio": "Donald Jay Rickles was an American stand-up comedian, actor, and author, known especially for his insult comedy."
+    },
+    {
+      "name": "Keanu Reeves",
+      "gender": "Male",
+      "dob": "1964-09-02",
+      "bio": "Keanu Charles Reeves is a Canadian actor, best known for his roles in The Matrix series, Speed, and John Wick series."
+    },
+    {
+      "name": "Laurence Fishburne",
+      "gender": "Male",
+      "dob": "1961-07-30",
+      "bio": "Laurence John Fishburne III is an American actor, playwright, producer, and director. He is known for his roles in The Matrix series, Boyz n the Hood, and Apocalypse Now."
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "gender": "Female",
+      "dob": "1967-08-21",
+      "bio": "Carrie-Anne Moss is a Canadian actress, best known for her role as Trinity in The Matrix series and for her roles in Memento, Chocolat, and Disturbia."
+    },
+    {
+      "name": "Bruce Willis",
+      "gender": "Male",
+      "dob": "1955-03-19",
+      "bio": "Walter Bruce Willis is an American actor, producer, and singer. He is best known for his roles in Die Hard series, Pulp Fiction, The Sixth Sense, and Armageddon."
+    },
+    {
+      "name": "Alan Rickman",
+      "gender": "Male",
+      "dob": "1946-02-21",
+      "bio": "Alan Sidney Patrick Rickman was an English actor and director, known for his roles in Die Hard, Robin Hood: Prince of Thieves, Harry Potter series, and Sense and Sensibility."
+    },
+    {
+      "name": "Bonnie Bedelia",
+      "gender": "Female",
+      "dob": "1948-03-25",
+      "bio": "Bonnie Bedelia Culkin is an American actress, known for her roles in Die Hard series, They Shoot Horses, Don't They?, and Presumed Innocent."
+    },
+    {
+      "name": "Tom Hardy",
+      "gender": "Male",
+      "dob": "1977-09-15",
+      "bio": "Edward Thomas Hardy CBE is an English actor and producer, known for his roles in The Dark Knight Rises, Mad Max: Fury Road, and Venom."
+    },
+    {
+      "name": "Charlize Theron",
+      "gender": "Female",
+      "dob": "1975-08-07",
+      "bio": "Charlize Theron is a South African and American actress and producer. She is known for her roles in Monster, Mad Max: Fury Road, and Atomic Blonde."
+    },
+    {
+      "name": "Nicholas Hoult",
+      "gender": "Male",
+      "dob": "1989-12-07",
+      "bio": "Nicholas Caradoc Hoult is an English actor, known for his roles in X-Men series, Warm Bodies, and Mad Max: Fury Road."
+    },
+    {
+      "name": "Martin Freeman",
+      "gender": "Male",
+      "dob": "1971-09-08",
+      "bio": "Martin John Christopher Freeman is an English actor, best known for his roles in The Hobbit series, Sherlock, and The Office."
+    },
+    {
+      "name": "Richard Armitage",
+      "gender": "Male",
+      "dob": "1971-08-22",
+      "bio": "Richard Crispin Armitage is an English actor, known for his roles in The Hobbit series, North & South, and Robin Hood."
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "gender": "Male",
+      "dob": "1947-07-30",
+      "bio": "Arnold Alois Schwarzenegger is an Austrian-American actor, businessman, retired bodybuilder, and former politician. He is known for his roles in The Terminator series, Predator, and Total Recall."
+    },
+    {
+      "name": "Linda Hamilton",
+      "gender": "Female",
+      "dob": "1956-09-26",
+      "bio": "Linda Carroll Hamilton is an American actress, best known for her role as Sarah Connor in The Terminator series."
+    },
+    {
+      "name": "Michael Biehn",
+      "gender": "Male",
+      "dob": "1956-07-31",
+      "bio": "Michael Connell Biehn is an American actor, known for his roles in The Terminator, Aliens, and The Abyss."
+    },
+    {
+      "name": "Marlon Brando",
+      "gender": "Male",
+      "dob": "1924-04-03",
+      "bio": "Marlon Brando Jr. was an American actor and film director. He is credited with bringing a gripping realism to film acting, and is widely regarded as one of the greatest actors of all time."
+    },
+    {
+      "name": "Al Pacino",
+      "gender": "Male",
+      "dob": "1940-04-25",
+      "bio": "Alfredo James Pacino is an American actor and filmmaker. He is known for his roles in The Godfather series, Serpico, Scarface, and Scent of a Woman."
+    },
+    {
+      "name": "James Caan",
+      "gender": "Male",
+      "dob": "1940-03-26",
+      "bio": "James Edmund Caan is an American actor. He is known for his roles in The Godfather, Misery, Elf, and Brian's Song."
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "gender": "Male",
+      "dob": "1965-04-04",
+      "bio": "Robert John Downey Jr. is an American actor and producer. He is known for his roles in Iron Man series, Sherlock Holmes series, and Chaplin."
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "gender": "Female",
+      "dob": "1972-09-27",
+      "bio": "Gwyneth Kate Paltrow is an American actress, singer, author, and businesswoman. She is known for her roles in Shakespeare in Love, Iron Man series, and The Royal Tenenbaums."
+    },
+    {
+      "name": "Terrence Howard",
+      "gender": "Male",
+      "dob": "1969-03-11",
+      "bio": "Terrence Dashon Howard is an American actor and singer. He is known for his roles in Hustle & Flow, Crash, and Iron Man series."
+    },
+    {
+      "name": "Edward Furlong",
+      "gender": "Male",
+      "dob": "1977-08-02",
+      "bio": "Edward Walter Furlong is an American actor, best known for his role as John Connor in Terminator 2: Judgment Day."
+    },
+    {
+      "name": "Eric Bana",
+      "gender": "Male",
+      "dob": "1968-08-09",
+      "bio": "Eric Banadinović, known professionally as Eric Bana, is an Australian actor and comedian. He is known for his roles in Munich, Hulk, and Star Trek."
+    },
+    {
+      "name": "Jennifer Connelly",
+      "gender": "Female",
+      "dob": "1970-12-12",
+      "bio": "Jennifer Lynn Connelly is an American actress. She is known for her roles in A Beautiful Mind, Requiem for a Dream, and Labyrinth."
+    },
+    {
+      "name": "Russell Crowe",
+      "gender": "Male",
+      "dob": "1964-04-07",
+      "bio": "Russell Ira Crowe is a New Zealand actor, producer, and musician. He is known for his roles in Gladiator, A Beautiful Mind, and Les Misérables."
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "gender": "Male",
+      "dob": "1974-10-28",
+      "bio": "Joaquin Rafael Phoenix is an American actor and producer. He is known for his roles in Joker, Walk the Line, and Gladiator."
+    },
+    {
+      "name": "Connie Nielsen",
+      "gender": "Female",
+      "dob": "1965-07-03",
+      "bio": "Connie Inge-Lise Nielsen is a Danish actress. She is known for her roles in Gladiator, Wonder Woman, and The Devil's Advocate."
+    },
+    {
+      "name": "Denzel Washington",
+      "gender": "Male",
+      "dob": "1954-12-28",
+      "bio": "Denzel Hayes Washington Jr. is an American actor, director, and producer. He has received various accolades, including two Academy Awards, three Golden Globe Awards, and a Tony Award."
+    },
+    {
+      "name": "Dakota Fanning",
+      "gender": "Female",
+      "dob": "1994-02-23",
+      "bio": "Hannah Dakota Fanning is an American actress. She rose to prominence at a young age for her performances in I Am Sam, War of the Worlds, and Coraline."
+    },
+    {
+      "name": "Elle Fanning",
+      "gender": "Female",
+      "dob": "1998-04-09",
+      "bio": "Mary Elle Fanning is an American actress. She is known for her roles in Super 8, Maleficent, and The Neon Demon."
+    },
+    {
+      "name": "Angelina Jolie",
+      "gender": "Female",
+      "dob": "1975-06-04",
+      "bio": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She is known for her roles in Girl, Interrupted, Lara Croft: Tomb Raider, and Maleficent."
+    },
+    {
+      "name": "Brad Pitt",
+      "gender": "Male",
+      "dob": "1963-12-18",
+      "bio": "William Bradley Pitt is an American actor and film producer. He is known for his roles in Fight Club, Ocean's Eleven, and Once Upon a Time in Hollywood."
+    },
+    {
+      "name": "Meryl Streep",
+      "gender": "Female",
+      "dob": "1949-06-22",
+      "bio": "Mary Louise Streep, known professionally as Meryl Streep, is an American actress. Often described as the 'best actress of her generation', she is known for her versatility and accents."
+    },
+    {
+      "name": "Julia Roberts",
+      "gender": "Female",
+      "dob": "1967-10-28",
+      "bio": "Julia Fiona Roberts is an American actress and producer. She is known for her roles in Pretty Woman, Erin Brockovich, and Ocean's Eleven."
+    },
+    {
+      "name": "Tom Hiddleston",
+      "gender": "Male",
+      "dob": "1981-02-09",
+      "bio": "Thomas William Hiddleston is an English actor. He is known for his roles in Thor series, The Avengers, and Crimson Peak."
+    },
+    {
+      "name": "Chris Hemsworth",
+      "gender": "Male",
+      "dob": "1983-08-11",
+      "bio": "Christopher Hemsworth is an Australian actor. He is known for his role as Thor in the Marvel Cinematic Universe."
+    },
+    {
+      "name": "Scarlett Johansson",
+      "gender": "Female",
+      "dob": "1984-11-22",
+      "bio": "Scarlett Ingrid Johansson is an American actress and singer. She is known for her roles in Lost in Translation, The Avengers, and Marriage Story."
+    },
+    {
+      "name": "Robert Redford",
+      "gender": "Male",
+      "dob": "1936-08-18",
+      "bio": "Charles Robert Redford Jr. is a retired American actor, director, and activist. He is known for his roles in Butch Cassidy and the Sundance Kid, The Sting, and All the President's Men."
+    },
+    {
+      "name": "Paul Newman",
+      "gender": "Male",
+      "dob": "1925-01-26",
+      "bio": "Paul Leonard Newman was an American actor, film director, race car driver, and entrepreneur. He is known for his roles in Cool Hand Luke, The Hustler, and Butch Cassidy and the Sundance Kid."
+    },
+    {
+      "name": "George Clooney",
+      "gender": "Male",
+      "dob": "1961-05-06",
+      "bio": "George Timothy Clooney is an American actor, film director, producer, and philanthropist. He is known for his roles in Ocean's Eleven series, Syriana, and ER."
+    },
+    {
+      "name": "Bradley Cooper",
+      "gender": "Male",
+      "dob": "1975-01-05",
+      "bio": "Bradley Charles Cooper is an American actor and filmmaker. He is known for his roles in Silver Linings Playbook, American Sniper, and A Star Is Born."
+    },
+    {
+      "name": "Jennifer Garner",
+      "gender": "Female",
+      "dob": "1972-04-17",
+      "bio": "Jennifer Anne Garner is an American actress. She is known for her roles in Alias, 13 Going on 30, and Dallas Buyers Club."
+    },
+    {
+      "name": "Matt Damon",
+      "gender": "Male",
+      "dob": "1970-10-08",
+      "bio": "Matthew Paige Damon is an American actor, producer, and screenwriter. He is known for his roles in Good Will Hunting, The Martian, and Jason Bourne series."
+    },
+    {
+      "name": "Julianne Moore",
+      "gender": "Female",
+      "dob": "1960-12-03",
+      "bio": "Julie Anne Smith, known professionally as Julianne Moore, is an American actress and author. She is known for her roles in Boogie Nights, The Hours, and Still Alice."
+    },
+    {
+      "name": "Willem Dafoe",
+      "gender": "Male",
+      "dob": "1955-07-22",
+      "bio": "William James Dafoe is an American actor. He is known for his roles in Platoon, Shadow of the Vampire, and The Florida Project."
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "gender": "Male",
+      "dob": "1946-09-15",
+      "bio": "Tommy Lee Jones is an American actor and filmmaker. He is known for his roles in The Fugitive, Men in Black series, and No Country for Old Men."
+    },
+    {
+      "name": "Will Smith",
+      "gender": "Male",
+      "dob": "1968-09-25",
+      "bio": "Willard Carroll Smith Jr. is an American actor and rapper. He is known for his roles in The Fresh Prince of Bel-Air, Men in Black series, and Ali."
+    },
+    {
+      "name": "Linda Fiorentino",
+      "gender": "Female",
+      "dob": "1958-03-09",
+      "bio": "Clorinda Fiorentino, known professionally as Linda Fiorentino, is an American actress. She is known for her roles in The Last Seduction, Men in Black, and Jade."
+    },
+    {
+      "name": "Anthony Hopkins",
+      "gender": "Male",
+      "dob": "1937-12-31",
+      "bio": "Sir Philip Anthony Hopkins is a Welsh actor, director, and producer. He is known for his roles in The Silence of the Lambs, The Remains of the Day, and The Two Popes."
+    },
+    {
+      "name": "Natalie Portman",
+      "gender": "Female",
+      "dob": "1981-06-09",
+      "bio": "Natalie Portman is an actress and filmmaker with dual Israeli and American citizenship. She is known for her roles in Black Swan, V for Vendetta, and Jackie."
+    },
+    {
+      "name": "Tao Okamoto",
+      "gender": "Female",
+      "dob": "1985-05-22",
+      "bio": "Tao Okamoto is a Japanese actress and model. She is known for her roles in The Wolverine, Batman v Superman: Dawn of Justice, and Chi no Wadachi."
+    }
+]
+  
